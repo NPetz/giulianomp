@@ -1,12 +1,11 @@
 {
-    "title": "GMP",
-    "description": "GMP Personal Blog",
-    "contact": {
-      "email": "info@forestry.io",
-      "twitter_handle": "forestryio",
-      "github_handle": "forestryio"
-    },
-    "primary_color": "#ACCAC5",
-    "repository_url": "https://github.com/kendallstrautman/starter-blog-gridsome"
-  }
-  
+  "title": "GMP",
+  "description": "GMP Personal Blog",
+  "contact": {
+    "email": "info@forestry.io",
+    "twitter_handle": "forestryio",
+    "github_handle": "forestryio"
+  },
+  "primary_color": "#ACCAC5",
+  "repository_url": "https://github.com/NPetz/starter-blog-gridsome"
+}
