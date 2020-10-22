@@ -1,10 +1,10 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://gridsome.org/\" title=\"Gridsome Link\">Gridsome</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>This blog was created by incremental modification of <a href=\"https://github.com/kendallstrautman/brevifolia-gridsome-forestry\" title=\"\">this</a> template.</p>",
+  "cta": "<p>Check my stuff.</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "to come",
+    "twitter_handle": "to come",
+    "github_handle": "NPetz"
   },
   "background_color": "#B1BCBC",
   "text_color": "#ebebeb"

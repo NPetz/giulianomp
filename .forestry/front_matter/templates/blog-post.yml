@@ -26,4 +26,3 @@ fields:
   label: hero_image
 pages:
 - src/assets/content/blog/my-first-post.md
-
