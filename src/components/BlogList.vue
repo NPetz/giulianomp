@@ -13,7 +13,7 @@
                         </g-image>
                     </div>
                     <div class="blogList__info">
-                        <h2>{{ post.node.title }}</h2>
+                        <h1>{{ post.node.title }}</h1>
                         <h3>{{ formatDate(post.node.date) }}</h3>
                         <p v-html="formatExcerpt(post.node.content)"></p>
                     </div>

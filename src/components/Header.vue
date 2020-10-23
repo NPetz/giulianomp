@@ -2,7 +2,7 @@
     <header class="header">
         <nav class="nav">
             <g-link to="/" exact>
-                <h1>{{ $static.metadata.siteName }}</h1>
+                <h1 class="logotype">{{ $static.metadata.siteName }}</h1>
             </g-link>
             <div>
                 <h1>
@@ -44,14 +44,6 @@ export default {
 
 <style>
 
-.header {
-    background-color: #EBEBEB;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-}
-
 .header h1 {
     margin-bottom: 0; 
 }
@@ -68,6 +60,11 @@ export default {
 .nav img {
      margin-bottom: 0;
 }
+
+.logotype{
+    font-family: 'Alfa Slab One','sans-serif';
+    font-weight: 100;
+}
   
 @media (min-width: 768px) {
     .header {
@@ -80,7 +77,7 @@ export default {
     
     .nav {
       padding: 2rem;
-      width: 30vw;
+      width: 10vw;
       height: 100%;
       border-right: 1px solid #EBEBEB;
       border-bottom: none;
