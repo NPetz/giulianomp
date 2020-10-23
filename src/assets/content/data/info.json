@@ -1,11 +1,10 @@
 {
-  "description": "<p>This blog was created by incremental modification of <a href=\"https://github.com/kendallstrautman/brevifolia-gridsome-forestry\" title=\"\">this</a> template.</p>",
-  "cta": "<p>Check my stuff.</p>",
+  "description": "<p>Where I dump my brain when it's not garbage.</p>",
+  "cta": "<p>Open to all sorts of things. Drop me a line.</p>",
   "contact": {
-    "email": "to come",
-    "twitter_handle": "to come",
+    "email": "giuliano.masucci@gmail.com",
     "github_handle": "NPetz"
   },
-  "background_color": "#B1BCBC",
-  "text_color": "#ebebeb"
+  "background_color": "#1d3557",
+  "text_color": "#f1faee"
 }

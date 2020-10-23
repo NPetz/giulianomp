@@ -43,6 +43,15 @@ export default {
 </static-query>
 
 <style>
+
+.header {
+    background-color: #EBEBEB;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
 .header h1 {
     margin-bottom: 0; 
 }
@@ -66,6 +75,7 @@ export default {
       position: fixed;
       left: 0;
       top: 0;
+      width: auto;
     }
     
     .nav {
