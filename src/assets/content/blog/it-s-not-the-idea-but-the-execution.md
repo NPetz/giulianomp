@@ -11,6 +11,10 @@ How else could I go from this:
 
 to this:
 
+![](/src/assets/content/images/web-003-3.jpg)
+
+or this:
+
 ![](/src/assets/content/images/web-003.jpg)
 
 if that wasn't true?
