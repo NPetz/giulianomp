@@ -24,5 +24,3 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
-pages:
-- src/assets/content/blog/it-s-not-the-idea-but-the-execution.md
